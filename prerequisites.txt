@@ -1,0 +1,3 @@
+Prerequisites:
+
+I recommend you to have a basic understanding of numpy, pandas and matplotlib before going through the notebook, although you can still check it out without any prior knowledge.
